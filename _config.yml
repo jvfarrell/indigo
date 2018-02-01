@@ -1,6 +1,6 @@
 # main text of home
 name: Victor Farrell
-bio: I am a Hip-Hop dancing snowboarder with a love for lacrosse, soccer, and video games
+bio: A Hip-Hop dancing snowboarder who also digs coding and video games.
 
 # twitter summary info
 description: Daily rebus puzzles posted here.
@@ -55,7 +55,7 @@ email: jvictorfarrell@gmail.com
 authors:
     victorfarrell:
         name: Victor Farrell
-        bio: A Man who develops software with coffee
+        bio: Snowboarder, hip-hop dancer, Dragon Enthusiast
         external-image: false
         picture: assets/images/profile.jpg
     jamesfoster:
