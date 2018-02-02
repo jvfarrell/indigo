@@ -25,7 +25,7 @@ So I'll try and post each of the puzzles I post here in this blog.  I will inclu
 ## Puzzle 1
 
 REST
-____
+<p>____</p>
 
 YOUR
 
