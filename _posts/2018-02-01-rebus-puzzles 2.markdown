@@ -12,13 +12,11 @@ description: Rebus Puzzles
 # jemoji: '<img class="emoji" title=":ramen:" alt=":ramen:" src="https://assets.github.com/images/icons/emoji/unicode/1f35c.png" height="20" width="20" align="absmiddle">'
 ---
 
-## Summary:
-
-Have a great weekend!
 <img class="image" src="{{ site.url }}/assets/images/puzzles/2-1-18.jpg" alt="Rebus Puzzles">
-
+Have a great weekend!
 ---
-
+## Answers:
+---
 ## Puzzle 1
 
 <div class="spoiler"><p>Big fish in a small pond.</p></div>
