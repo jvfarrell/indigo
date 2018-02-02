@@ -14,9 +14,13 @@ description: Rebus Puzzles
 
 <img class="image" src="{{ site.url }}/assets/images/puzzles/2-1-18.jpg" alt="Rebus Puzzles">
 Have a great weekend!
+
 ---
+
 ## Answers:
+
 ---
+
 ## Puzzle 1
 
 <div class="spoiler"><p>Big fish in a small pond.</p></div>
