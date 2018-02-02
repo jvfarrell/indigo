@@ -3,7 +3,7 @@ title: "Django Personal Website"
 layout: post
 date: 2018-02-02 22:10
 tag: django
-image: /assets/images/MalibuVicBanner.png
+image: /indigo/assets/images/MalibuVicBanner.png
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
